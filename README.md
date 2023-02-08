@@ -49,15 +49,3 @@ These two below styles i have made public and it should work when you use your o
 mapbox://styles/hackbotone/ck8vtayrp0x5f1io3sakcmpnv
 mapbox://styles/hackbotone/ck8vt8vdj2fz91ilax6nwtins
 ````````````````````````````````````````````````
-
-### Note
-If you face any problem or have any suggestion on improving the code then feel free to raise an issue.
-
-### Youtube explanation
-[https://www.youtube.com/watch?v=dth5jfLDuus](https://www.youtube.com/watch?v=dth5jfLDuus)
-
-### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
-
-### License
-This project is licensed under the [MIT License](LICENSE)
